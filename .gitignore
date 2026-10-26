@@ -1,0 +1,7 @@
+arac
+arac.exe
+*.o
+car.txt
+customer.txt
+rental.txt
+*.tmp
